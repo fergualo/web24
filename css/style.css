@@ -262,6 +262,36 @@ h1 {
     width: 80%;
     margin: 0 auto;
 }
+.ENDE {
+background-color: rgb(151, 219, 152);
+}
+.LMSG{
+    background-color:rgb(100, 180, 239) ;
+}
+.PROG{
+    background-color: rgb(210, 210, 110);
+}
+.PIMD{
+    background-color: rgb(188, 120, 121);
+}
+.IPCG{
+    background-color: rgb(1, 223, 0);
+}
+.SASP{
+    background-color: rgb(210, 210, 252);
+}
+.IPE-{
+    background-color: rgb(239, 240, 200);
+}
+.SISI{
+    background-color: rgb(0, 128, 255);
+}
+.DASP{
+    background-color: rgb(255, 162, 100);
+}
+.BDD{
+    background-color: rgb(101, 170, 151);
+}
 .bd {
     background-color: #e4b416;
 }
@@ -331,6 +361,7 @@ h1 {
 #multimedia auido{
     display: block;
     margin: 0 auto;
+    width: 50%;
 }
    
 
