@@ -4,7 +4,7 @@ body {
 
 * {
     box-sizing: border-box;
-    color: rgb(18, 0, 110);
+    color: rgb(111, 6, 54);
 }
 
 /* For desktop: */
@@ -101,7 +101,7 @@ body {
 }
 
 .shadow {
-    box-shadow: 0 0 20px gainsboro;
+    box-shadow: 0 0 20px rgb(160, 23, 69);
     border-radius: 10px;
 }
 nav ul{
@@ -123,16 +123,17 @@ nav li {
         font-size: 30px;
     }
     nav ul {
-        background-color: rgb(243, 251, 254);
+        background-color: rgb(248, 156, 4);
     }
 }
 
 nav li a {
-    color: rgb(18, 0, 110);
+    color: rgb(255, 159, 14);
+    text-shadow: 2px 2px 12px rgb(95, 26, 55);
 }
 
 nav li:hover {
-    background-color:  rgb(225, 245, 253);
+    background-color: rgb(183, 40, 107);
 }
 
 .text-right{
@@ -156,16 +157,17 @@ a {
 }
 
 .bg-azul-o {
-    background-color: rgb(0 157 222);
+    background-color: rgb(95, 26, 55);
 }
 .bg-azul-c {
-    background-color: rgb(240, 249, 252);
+    background-color: rgb(255, 255, 255);
 }
 .bg-orange {
     background-color: orange;
 }
 .text-white {
-    color: white;
+    color: rgb(162, 217, 219);
+    text-shadow: 2px 2px 12px rgb(255, 255, 255);
 }
 .text-red {
     color: red;
@@ -337,7 +339,7 @@ background-color: rgb(151, 219, 152);
 }
 .btn-red {
     background-color: rgb(218, 19, 19);
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .btn-green {
     background-color: rgb(4, 44, 14);
